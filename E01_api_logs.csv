@@ -1,0 +1,2 @@
+request_id,api_key_id,endpoint,method,status
+CASE-REQ-001,key-tb-07,/mock/finance/summary,GET,200

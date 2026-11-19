@@ -1,0 +1,2 @@
+actor,action,object_id,result
+sample-user,view_export,SAMPLE-001,success

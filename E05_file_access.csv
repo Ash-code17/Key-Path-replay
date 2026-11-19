@@ -1,0 +1,2 @@
+principal,action,path,result
+sample-service,read,/sample/file.csv,success
